@@ -30,7 +30,7 @@ public class Jumble {
 				String newToken = jumbler(token); 	// Jumble up the token
 				System.out.print(newToken+" ");
 			} else {
-				System.out.print(token+" ");		// Print the single-char token
+				System.out.print(token+" ");		// Print the token
 			}
 			
 		}
