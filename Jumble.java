@@ -1,5 +1,10 @@
-/* I cnduo't bvleiee taht I culod uesdtannrd waht I was rdnaieg. 
-* 1. Take in a file, cut up strings by whitespace
+/* 
+* How to turn:
+* "I couldn't believe that I could understand what I was reading!"
+* into:
+* "I cnduol't bvleiee taht I culod uesdtannrd waht I was rdnaieg!"
+*
+* 1. Take in a file + tokenize it
 * 2. Jumble the middle characters
 * 3. Output result
 */
