@@ -26,7 +26,7 @@ public class Jumble {
 			
 			token = s.next();
 			
-			if (token.length() != 1 && token.length() != 2){
+			if (token.length() >= 4){
 				String newToken = jumbler(token); 	// Jumble up the token
 				System.out.print(newToken+" ");
 			} else {
