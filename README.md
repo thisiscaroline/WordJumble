@@ -1,2 +1,2 @@
 # WordJumble
-Takes in a file and jumbles the insides of the words up. Magically, still readable!
+Tkeas in a flie and jeulmbs the iidenss of the wdors up. Mayllgiac, siltl rdeablae!
